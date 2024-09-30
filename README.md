@@ -60,6 +60,7 @@ Antes de começar, certifique-se de ter instalado o seguinte:
 
 - `react`: Framework frontend baseado em Node.
 - `vite`: Framework facilitador para React.
+- `styled-components`: Biblioteca para React baseada em CSS.
 - `axios`: Biblioteca para conexao entre front e backend.
 
 ## Conclusão
